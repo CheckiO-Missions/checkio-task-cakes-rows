@@ -1,39 +1,63 @@
+<div class="story">
+    <p>
+        "A barrowful of WHAT? thought Alice; but she had not long to
+        doubt, for the next moment a shower of little pebbles came
+        rattling in at the window, and some of them hit her in the face.
+        "Ill put a stop to this, she said to herself, and shouted out,
+        "You'd better not do that again! which produced another dead
+        silence.</p>
+
+    <p>
+        Alice noticed with some surprise that the pebbles were all
+        turning into little cakes as they lay on the floor, and a bright
+        idea came into her head. "If I eat one of these cakes, she
+        thought, "its sure to make SOME change in my size; and as it
+        cant possibly make me larger, it must make me smaller, I
+        suppose.
+    </p>
+    <p style="float: right">
+        "Alice's adventures in wonderland." Lewis Carroll
+    </p>
+</div>
+
 <p>
-    <i>( Describe task in general )</i>
+    The cakes are laying on the floor. All cakes are round.
+    But our robots can't ignore this fact and trying to find an appropriateness for cakes' disposition.
+    Some cakes form rows and we want to count these rows.
+    The row is a sequence of three or more cakes if we can to draw straight line through its centers.
+    The greater row takes up the smaller rows. So if we have the row with 4 cakes, then we have only one row (not 4 by 3).
 </p>
 
 <p>
-    Sum two passed ints
+    The cakes location is represented as a list of coordinates. A coordinate is a list of two integers.
+    You should count the rows.
 </p>
 
 <p style="text-align: center;">
-    <img class="for_info_only" title="example" src="{{MEDIA}}example.png" alt="example" width="392px"/>
-    <img class="for_editor_only" title="example" src="{{MEDIA}}example.png" alt="example" width="380px"/>
+    <img class="for_info_only" title="example" src="{{MEDIA}}cakes-rows.png" alt="example" width="600px"/>
+    <img class="for_editor_only" title="example" src="{{MEDIA}}cakes-rows.png" alt="example" width="380px"/>
 </p>
 
 <p><i>( Explain input and output values )</i></p>
 <p>
-    <strong>Input: </strong> Two arguments. Both are int
+    <strong>Input: </strong> A list of coordinates, lists with two integers.
 </p>
 
 <p>
-    <strong>Output: </strong> Int. 
+    <strong>Output: </strong> The quantity of rows.
 </p>
 
 
-
 <div class="for_info_only">
-    <p><i>( Put some usage examples )</i></p>
     <p>
         <strong>Example:</strong>
     </p>
     <pre class="brush: python">
-checkio(3, 2) == 5
-checkio(5, 7) == 12
-    </pre>
+checkio([[3,3],[5,5],[8,8],[2,8],[8,2]]) == 2
+checkio([[2,2],[2,5],[2,8],[5,2],[7,2],[8,2],[9,2],[4,5],[4,8],[7,5],[5,8],[9,9]]) == 12
+</pre>
 </div>
 
 <p class="for_info_only">
     <strong>How it is used: </strong>
-    <i>(Here you can explain how it can be used in development and what is usage of this.)</i>
 </p>
