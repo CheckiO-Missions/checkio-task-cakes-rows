@@ -5,48 +5,48 @@
     <rect x="0" y="0" width="1200" height="900" fill="#000000" fill-opacity="0"/>
   </g>
   <g id="Layer 1">
-    <path d="M99.607,550.5 L99.607,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M149.607,550.5 L149.607,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M199.607,550.5 L199.607,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M249.607,550.5 L249.607,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M299.607,550.5 L299.607,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M349.607,550.5 L349.607,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M399.607,550.5 L399.607,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M449.607,550.5 L449.607,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M499.607,550.5 L499.607,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M49.607,100.5 L549.607,100.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M49.607,150.5 L549.607,150.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M49.607,200.5 L549.607,200.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M49.607,250.5 L549.607,250.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M49.607,300.5 L549.607,300.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M49.607,350.5 L549.607,350.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M49.607,400.5 L549.607,400.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M49.607,450.5 L549.607,450.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M49.607,500.5 L549.607,500.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
+    <path d="M99.607,550.5 L99.607,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M149.607,550.5 L149.607,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M199.607,550.5 L199.607,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M249.607,550.5 L249.607,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M299.607,550.5 L299.607,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M349.607,550.5 L349.607,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M399.607,550.5 L399.607,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M449.607,550.5 L449.607,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M499.607,550.5 L499.607,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M49.607,100.5 L549.607,100.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M49.607,150.5 L549.607,150.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M49.607,200.5 L549.607,200.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M49.607,250.5 L549.607,250.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M49.607,300.5 L549.607,300.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M49.607,350.5 L549.607,350.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M49.607,400.5 L549.607,400.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M49.607,450.5 L549.607,450.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M49.607,500.5 L549.607,500.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
     <path d="M149.607,450.5 L449.607,150.5" fill-opacity="0" stroke="#F0801A" stroke-width="6"/>
     <path d="M199.607,200.5 L449.607,450.5" fill-opacity="0" stroke="#F0801A" stroke-width="6"/>
     <g>
       <path d="M199.607,181.75 C189.252,181.75 180.857,190.145 180.857,200.5 C180.857,210.855 189.252,219.25 199.607,219.25 C209.963,219.25 218.357,210.855 218.357,200.5 C218.357,190.145 209.963,181.75 199.607,181.75 z" fill="#006CA9"/>
       <path d="M199.607,181.75 C189.252,181.75 180.857,190.145 180.857,200.5 C180.857,210.855 189.252,219.25 199.607,219.25 C209.963,219.25 218.357,210.855 218.357,200.5 C218.357,190.145 209.963,181.75 199.607,181.75 z" fill-opacity="0" stroke="#006CA9" stroke-width="1"/>
     </g>
-    <path d="M700.5,550.5 L700.5,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M750.5,550.5 L750.5,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M800.5,550.5 L800.5,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M850.5,550.5 L850.5,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M900.5,550.5 L900.5,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M950.5,550.5 L950.5,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M1000.5,550.5 L1000.5,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M1050.5,550.5 L1050.5,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M1100.5,550.5 L1100.5,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M650.5,100.5 L1150.5,100.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M650.5,150.5 L1150.5,150.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M650.5,200.5 L1150.5,200.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M650.5,250.5 L1150.5,250.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M650.5,300.5 L1150.5,300.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M650.5,350.5 L1150.5,350.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M650.5,400.5 L1150.5,400.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M650.5,450.5 L1150.5,450.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
-    <path d="M650.5,500.5 L1150.5,500.5" fill-opacity="0" stroke="#006CA9" stroke-width="2" stroke-dasharray="12,10"/>
+    <path d="M700.5,550.5 L700.5,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M750.5,550.5 L750.5,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M800.5,550.5 L800.5,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M850.5,550.5 L850.5,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M900.5,550.5 L900.5,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M950.5,550.5 L950.5,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M1000.5,550.5 L1000.5,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M1050.5,550.5 L1050.5,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M1100.5,550.5 L1100.5,50.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M650.5,100.5 L1150.5,100.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M650.5,150.5 L1150.5,150.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M650.5,200.5 L1150.5,200.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M650.5,250.5 L1150.5,250.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M650.5,300.5 L1150.5,300.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M650.5,350.5 L1150.5,350.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M650.5,400.5 L1150.5,400.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M650.5,450.5 L1150.5,450.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
+    <path d="M650.5,500.5 L1150.5,500.5" fill-opacity="0" stroke="#006CA9" stroke-width="1" stroke-dasharray="6,5"/>
     <path d="M750.5,450.5 L1100.5,450.5" fill-opacity="0" stroke="#F0801A" stroke-width="6"/>
     <path d="M750.5,300.5 L1000.5,300.5" fill-opacity="0" stroke="#F0801A" stroke-width="6"/>
     <path d="M750.5,150.5 L1100.5,150.5" fill-opacity="0" stroke="#F0801A" stroke-width="6"/>
@@ -126,12 +126,13 @@
     <text transform="matrix(1, 0, 0, 1, 234.946, 732.5)">
       <tspan x="-84.946" y="13.5" font-family="Verdana-Bold" font-size="36" fill="#294270">result: 2</tspan>
     </text>
-    <text transform="matrix(1, 0, 0, 1, 965, 665)">
-      <tspan x="-215" y="-79" font-family="Verdana-Bold" font-size="36" fill="#294270">checkio([</tspan>
-      <tspan x="-215" y="-35" font-family="Verdana-Bold" font-size="36" fill="#294270">    [2,2],[2,5],[2,8],</tspan>
-      <tspan x="-215" y="9" font-family="Verdana-Bold" font-size="36" fill="#294270">    [5,2],[7,2],[8,2],</tspan>
-      <tspan x="-215" y="53" font-family="Verdana-Bold" font-size="36" fill="#294270">    [9,2],[4,5],[4,8],</tspan>
-      <tspan x="-215" y="97" font-family="Verdana-Bold" font-size="36" fill="#294270">    [7,5],[5,8],[9,9]])</tspan>
+    <text transform="matrix(1, 0, 0, 1, 965, 682.5)">
+      <tspan x="-215" y="-96.5" font-family="Verdana-Bold" font-size="36" fill="#294270">checkio([</tspan>
+      <tspan x="-215" y="-52.5" font-family="Verdana-Bold" font-size="36" fill="#294270">    [2,2],[2,5],[2,8],</tspan>
+      <tspan x="-215" y="-8.5" font-family="Verdana-Bold" font-size="36" fill="#294270">    [5,2],[7,2],[8,2],</tspan>
+      <tspan x="-215" y="35.5" font-family="Verdana-Bold" font-size="36" fill="#294270">    [9,2],[4,5],[4,8],</tspan>
+      <tspan x="-215" y="79.5" font-family="Verdana-Bold" font-size="36" fill="#294270">    [7,5],[5,8],[9,8]])</tspan>
+      <tspan x="-215" y="123.5" font-family="Verdana-Bold" font-size="36" fill="#294270">    </tspan>
     </text>
     <text transform="matrix(1, 0, 0, 1, 834.946, 822.5)">
       <tspan x="-84.946" y="13.5" font-family="Verdana-Bold" font-size="36" fill="#294270">result: 6</tspan>
