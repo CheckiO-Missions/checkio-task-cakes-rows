@@ -1,0 +1,95 @@
+<style type="text/css">
+    .story img {
+        float: left;
+        /*padding: 10px;*/
+        margin: 10px;
+        border: black;
+        /*box-shadow: 0 0 20px 10px rgba(0,0,0,1);*/
+        /*-moz-box-shadow: 0 0 20px 10px rgba(0,0,0,1);*/
+        /*-webkit-box-shadow: 0 0 20px 10px rgba(0,0,0,1);*/
+    }
+</style>
+
+
+<div class="story" style="margin-bottom: 15px">
+    <img src="{{MEDIA}}alice-house-sepia.png" width="400px"/>
+</div>
+<div class="story" style="text-indent: 20px; padding-left: 20px; padding-bottom: 20px">
+    <p>"Wir müssen das Haus niederbrennen!" rief das Kaninchen; 
+        da schrie Alice so laut sie konnte: "Wenn ihr das thut, 
+        werde ich Dinah über euch schicken!"</p>
+
+    <p>Sogleich entstand tiefes Schweigen, und Alice dachte bei sich: "Was sie wohl jetzt thun werden? 
+        Wenn sie Menschenverstand hätten, würden sie das Dach abreißen." Nach einer oder zwei Minuten 
+        fingen sie wieder an sich zu rühren, und Alice hörte das Kaninchen sagen: "Eine Karre voll 
+        ist vor der Hand genug."</p>
+
+    <p> 
+        "Eine Karre voll was?" dachte Alice; doch blieb sie nicht lange im Zweifel, 
+        denn den nächsten Augenblick kam ein Schauer von kleinen Kieseln zum Fenster 
+        herein geflogen, von denen ein Paar sie gerade in's Gesicht trafen. "Dem will 
+        ich ein Ende machen," sagte sie bei sich und schrie hinaus: "Das laßt mir 
+        gefälligst bleiben!" worauf wieder tiefe Stille erfolgte.</p>
+
+    <p> 
+        Alice bemerkte mit einigem Erstaunen, daß die Kiesel sich alle in kleine Kuchen 
+        verwandelten, als sie auf dem Boden lagen, und dies brachte sie auf einen glänzenden 
+        Gedanken. "Wenn ich einen von diesen Kuchen esse," dachte sie, "wird es gewiß meine 
+        Größe verändern; und da ich unmöglich noch mehr wachsen kann, so wird es mich wohl 
+        kleiner machen, vermuthe ich."
+    </p>
+
+    <p style="float: right">
+        "Alice's Abenteuer im Wunderland" Lewis Carroll.
+        Aus dem Englischen von Antonie Zimmermann, 1869
+    </p>
+</div>
+
+<p>
+    Jemand hatte sich vorgenommen eine Menge Kuchen zu backen, um sie anschließend auf dem Boden zu verteilen.
+    Unsere Roboter können nicht anders, als in der Anordnung der Kuchen Muster auszumachen.
+    Einige Kuchen formen Reihen, diese wollen wir zählen.
+    Eine Reihe ist eine Folge von drei oder mehr Kuchen, wenn wir eine gerade Linie durch ihre Mitten ziehen können.
+    Es zählt immer die größere Reihe über der kleineren. Wenn wir eine Reihe mit 4 Kuchen haben, zählen wir nur eine Reihe (nicht 4 mal 3).
+</p>
+
+<p>
+    Die Lage der Kuchen ist in einer Liste von Koordinaten dargestellt.
+    Eine Koordinate ist eine Liste von zwei Ganzzahlen. Du sollst die Reihen zählen.
+</p>
+
+<p style="text-align: center;">
+    <img class="for_info_only" title="example" src="{{MEDIA}}cakes-rows.png" alt="example" width="600px"/>
+    <img class="for_editor_only" title="example" src="{{MEDIA}}cakes-rows.png" alt="example" width="380px"/>
+</p>
+
+<p>
+    <strong>Eingabe: </strong> Koordinaten in einer Liste von Listen mit zwei Ganzzahlen.
+</p>
+
+<p>
+    <strong>Ausgabe: </strong> Anzahl Reihen als Ganzzahl.
+</p>
+
+
+<div class="for_info_only">
+    <p>
+        <strong>Beispiel:</strong>
+    </p>
+    <pre class="brush: python">
+checkio([[3, 3], [5, 5], [8, 8], [2, 8], [8, 2]]) == 2
+checkio([[2, 2], [2, 5], [2, 8], [5, 2], [7, 2], [8, 2], [9, 2], [4, 5], [4, 8], [7, 5], [5, 8], [9, 8]]) == 6
+</pre>
+</div>
+
+<p class="for_info_only">
+    <strong>Wozu das gut ist: </strong>
+    Das ist ein Beispiel von Bilder- und Mustererkennung.
+    Dieses Konzept ist nützlich für Spielmechaniken, oder wenn Du einen Bot für Spiele schreiben willst,
+    oder um gedruckten Text zu digitalisieren.
+</p>
+
+<p>
+    <strong>Bedingung:</strong> 0 < |coordinates| < 20<br>
+    &forall; x,y ∈ coordinates : 0 &le; x,y &le; 10<br>
+</p>
