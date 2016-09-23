@@ -1,0 +1,95 @@
+﻿<style type="text/css">
+    .story img {
+        float: left;
+        /*padding: 10px;*/
+        margin: 10px;
+        border: black;
+        /*box-shadow: 0 0 20px 10px rgba(0,0,0,1);*/
+        /*-moz-box-shadow: 0 0 20px 10px rgba(0,0,0,1);*/
+        /*-webkit-box-shadow: 0 0 20px 10px rgba(0,0,0,1);*/
+
+    }
+</style>
+
+
+<div class="story" style="margin-bottom: 15px">
+    <img src="{{MEDIA}}alice-house-sepia.png" width="400px"/>
+</div>
+<div class="story" style="text-indent: 20px; padding-left: 20px; padding-bottom: 20px">
+    <p>「この家を燃やすべきだ!」 ウサギの声が聞こえました。
+        アリスは大きな声で叫びました。
+        「そんなことをしたらデイナにやっつけてもらうわよ!」</p>
+
+    <p>すぐにあたりは死んだように静まり返りました。アリスは考えました。
+        「うさぎ達は次にどうするかしら! 
+        気転が利くようなら屋根を壊そうとするかも。」
+        数分後、彼らはまた動きだしました。
+        アリスはウサギが「とりあえず手押し車いっぱいくらいかでいいかな。」
+        というのを聞きました。</p>
+
+    <p>
+        「手押し車いっぱいってどういうことかしら?」とアリスは思いました。
+        しかしすぐに理解しました。次の瞬間、窓から小石の洪水がやってきたのです。
+        いくつかは彼女の顔に当たりました。
+        「やめさせなくちゃ」彼女はつぶやきました。
+        そして「やめた方が身のためよ!」と怒鳴りました。すると再び静寂が戻りました。</p>
+
+    <p>
+        アリスは床に落ちた小石が全部小さなケーキに変わっているのに気が付いてびっくりしました。
+        そしていい考えが浮かんだのです。「これを一つ食べたら私の大きさがどうかなるはずだわ。
+        もうこれ以上大きくなりようがないし、きっと小さくなるんじゃないかしら。」</p>
+
+    <p style="float: right">
+        「不思議の国のアリス」ルイス・キャロル
+    </p>
+</div>
+
+<p>
+    だれかがたくさんのケーキを焼くことにしてそれらを床に置いています。
+    我々のロボット達はケーキの配置にパターンを発見したがっています。
+    いくつかのケーキは一線上に並んでおり、私たちはこの線を数えたいと思います。
+    3つ以上のケーキの中央を貫く直線を数えます。
+    一本の長い直線が複数の短い直線を含むことがあります。
+    つまり4つのケーキが一直線上にある場合などはそれを一本の線とみなします。
+    (4本や3本ではなく)
+</p>
+
+<p>
+    ケーキの位置は座標のリストで表されます。座標は2つの数(integr型)のリストです。
+    あなたは直線を数えること。
+</p>
+
+<p style="text-align: center;">
+    <img class="for_info_only" title="example" src="{{MEDIA}}cakes-rows.png" alt="example" width="600px"/>
+    <img class="for_editor_only" title="example" src="{{MEDIA}}cakes-rows.png" alt="example" width="380px"/>
+</p>
+
+<p>
+    <strong>入力: </strong> 座標群。(2つのinteger型からなるリストのリスト)
+</p>
+
+<p>
+    <strong>出力: </strong> 直線の数。(integer型)
+</p>
+
+
+<div class="for_info_only">
+    <p>
+        <strong>例:</strong>
+    </p>
+    <pre class="brush: python">
+checkio([[3, 3], [5, 5], [8, 8], [2, 8], [8, 2]]) == 2
+checkio([[2, 2], [2, 5], [2, 8], [5, 2], [7, 2], [8, 2], [9, 2], [4, 5], [4, 8], [7, 5], [5, 8], [9, 8]]) == 6
+</pre>
+</div>
+
+<p class="for_info_only">
+    <strong>どのように使われるか: </strong>
+    これは画像やパターンを認識するやり方の例である。
+    この概念はゲームの機構を考えたりゲームのボット(bot)を書きたいとき、
+    または活字をデジタルな情報に置き換える場合などに利用できる。</p>
+
+<p>
+    <strong>事前条件:</strong> 0 < |coordinates| < 20<br>
+    &forall; x,y ∈ coordinates : 0 &le; x,y &le; 10<br>
+</p>
